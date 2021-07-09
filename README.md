@@ -5,3 +5,5 @@ This code is taken entirely from Daniel Galasko's public Medium post you can fin
 I just make his code into a Swift Package so that I didn't have to copy it into my projects. Better encapsulation that way 🎉
 
 Only modification I made was changing some access levels from internal to public.
+
+Also it seems like it would work for MacOS, tvOS and watchOS, but I haven't tested anything other than iOS.
